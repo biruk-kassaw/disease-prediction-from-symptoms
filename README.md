@@ -12,7 +12,7 @@ To get started with this project, you can follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the `demo.ipynb` notebook in Jupyter Notebook or JupyterLab.
-3. Run the notebook cells to start the demo.
+3. Run the notebook cells to start the demo with gradio user interface.
 4. Enter the symptoms in the input fields provided and click on "Predict" to get the predicted disease along with the confidence level.
 
 ## Usage
